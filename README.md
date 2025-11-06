@@ -3,5 +3,5 @@
 My name is Jude. I like capybaras.
 
 <div align="center">
-    <img alt="created by @ethmarks" src="capybara_footer.svg">
+    <img alt="created by @ethmarks" src="capybara_footer.svg" height=100>
 </div>
